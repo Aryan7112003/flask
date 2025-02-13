@@ -1,0 +1,14 @@
+scikit-learn
+pandas
+numpy
+joblib
+streamlit
+matplotlib
+seaborn
+nltk
+flask
+gunicorn
+pickle5
+numpy
+Procfile
+
