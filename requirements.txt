@@ -9,7 +9,7 @@ matplotlib
 seaborn
 nltk
 Procfile
-pickle5
+
 
  
 
